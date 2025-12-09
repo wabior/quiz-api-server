@@ -1,12 +1,12 @@
-composer install
-php artisan ui bootstrap
-npm install
-npm run dev
+composer install  
+php artisan ui bootstrap  
+npm install  
+npm run dev  
 
-dodanie .env
+dodanie .env  
 
-czyszczenie cache
-generowanie klucza
+czyszczenie cache  
+generowanie klucza  
 
-wykonanie migracji
-import sql
+wykonanie migracji  
+import sql  
